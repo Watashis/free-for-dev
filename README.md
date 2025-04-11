@@ -1398,6 +1398,7 @@ Update Time, five active automations, webhooks.
   * [Traefik-Hub](https://traefik.io/traefik-hub/) - Publish locally, running services over a tunnel to a public custom URL and secure them with access control. Free for 5 services in one cluster.
   * [Expose](https://expose.dev/) - Expose local sites via secure tunnels. The free plan includes an EU Server, Random subdomains, and Single users.
   * [btunnel](https://www.btunnel.in/) — Expose localhost and local tcp server to the internet. Free plan includes file server, custom http request and response headers, basic auth protection and 1 hour tunnel timeout.
+  * [Yggdrasil](https://yggdrasil-network.github.io/) — An open-source, end-to-end encrypted overlay network for creating secure peer-to-peer or mesh networks. Free to use, self-hosted, and supports multiple platforms including Linux, macOS, Windows, and more.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
